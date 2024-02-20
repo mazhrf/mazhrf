@@ -1,7 +1,7 @@
 # Aloha! 👋
 I'm Muhammad Azhar Fikri, a passionate software developer from Banjarmasin.
 
-## Pronouns
+## 🐺 Pronouns
 He/Him (NPC)
 
 ## 🔧 Technologies & Tools
