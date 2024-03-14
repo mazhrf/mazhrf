@@ -19,7 +19,7 @@ He/Him (NPC)
 [![LinkedIn](https://img.shields.io/badge/-mazharf-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazhrf/)
 [![GitHub](https://img.shields.io/badge/-mazharf-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mazhrf)
 
-## ⚡ My Mind
+## My Mind
 I love solving problem and enjoy a good cup of coffee while coding! ☕
 
 Let's be friend and build something amazing together! 🚀
