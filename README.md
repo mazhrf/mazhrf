@@ -4,7 +4,8 @@ I'm Muhammad Azhar Fikri, and I'm currently active as an Informatic Engineering.
 He/Him (NPC)
 
 I love solving problems and enjoying a good cup of coffee while coding! ☕
-  Let's be friends and build something amazing together! 🚀
+<br>
+Let's be friends and build something amazing together! 🚀
 
 ### Tools
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
