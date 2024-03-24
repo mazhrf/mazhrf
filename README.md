@@ -24,6 +24,5 @@ Let's be friends and build something amazing together! 🚀
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/mazhrf">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazhrf&theme=algolia&show_icons=true&hide_border=false&layout=compact"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazhrf&theme=algolia&show_icons=true&hide_border=false&count_private=true"/>
