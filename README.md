@@ -26,4 +26,4 @@ Let's be friends and build something amazing together! 🚀
 <p align="left">
 <a href="https://github.com/mazhrf">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mazhrf&show_icons=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrymldni&theme=default&show_icons=true&hide_border=false&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazhrf&theme=default&show_icons=true&hide_border=false&layout=compact"/>
