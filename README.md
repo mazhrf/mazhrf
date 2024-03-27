@@ -1,5 +1,6 @@
 ### Aloha!
-![vs)](https://github.com/mazhrf/mazhrf/assets/152604270/9d15a5d8-1422-42c0-aac6-25e6b4c5a427)
+![vsf](https://github.com/mazhrf/mazhrf/assets/152604270/235fbc21-5186-4ce1-9ed6-ed8f67d4893d)
+
 
 I'm Muhammad Azhar Fikri, and I'm currently active as an Informatic Engineering.
 <br>
