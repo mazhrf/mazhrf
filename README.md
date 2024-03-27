@@ -3,6 +3,8 @@ I'm Muhammad Azhar Fikri, and I'm currently active as an Informatic Engineering.
 
 He/Him (NPC)
 
+![vinland-saga](https://github.com/mazhrf/mazhrf/assets/152604270/44ab79b8-0bef-4f5b-951d-15f25e0d567d)
+
 I love solving problems and enjoying a good cup of coffee while coding! ☕
 <br>
 Let's be friends and build something amazing together! 🚀
