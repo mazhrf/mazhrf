@@ -1,5 +1,5 @@
 ### Aloha!
-![vinland-saga](https://github.com/mazhrf/mazhrf/assets/152604270/44ab79b8-0bef-4f5b-951d-15f25e0d567d)
+![vs)](https://github.com/mazhrf/mazhrf/assets/152604270/9d15a5d8-1422-42c0-aac6-25e6b4c5a427)
 
 I'm Muhammad Azhar Fikri, and I'm currently active as an Informatic Engineering.
 <br>
