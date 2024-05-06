@@ -10,6 +10,8 @@ I love solving problems and enjoying a good cup of coffee while coding! ☕
 <br>
 Let's be friends and build something amazing together! 🚀
 
+05.06.2024
+
 ### Tools
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
