@@ -7,7 +7,7 @@ I'm Muhammad Azhar Fikri, and I'm currently active as an Informatic Engineering.
 
 He/Him
 
-05.09.2025
+05.24.2025
 
 ### Tools
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
